@@ -2395,6 +2395,8 @@ footer.session-footer {
     padding-right: 0;
     padding-bottom: 0; }
 
+
+
 @media screen and (min-width: 48em) {
   /* Right sidebar positioning */
   .layout-right-sidebar .sidebar-panel {
@@ -4403,6 +4405,38 @@ a.bg-white-darker:focus {
 
 .bg-white-light {
   background-color: white; }
+
+/*Est*/
+.fondo-login{
+  background-color: #363636;
+}
+.bien{
+  color: #fff;
+  font-size: 34px; 
+  text-transform: uppercase;
+  margin: 13% 0;
+}
+.bien span{
+  border-bottom: solid #f95172 2px;
+}
+
+.botones input[type="email"],input[type="password"]{
+  background: transparent;
+  border: none;
+  border-bottom: solid 2px #dfdfdf;
+}
+
+.boton-log{
+  border-radius: 40px !important;
+  width: 60%;
+  margin: 0 auto;
+  background: #f95173;
+}
+
+.fondo{
+  background-size: cover;
+}
+/*fin*/
 
 a.bg-white-light:hover,
 a.bg-white-light:focus {

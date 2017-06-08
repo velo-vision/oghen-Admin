@@ -30,7 +30,7 @@
 		  -->
         </div>
       </div>
-      <div class="card bg-white no-border fonfo-login">
+      <div class="card bg-white no-border fondo-login">
         <div class="card-block">
           <form role="form" class="form-layout" action="" method="POST">
             <div class="text-center m-b">
