@@ -18,16 +18,22 @@
   <!-- /page loading spinner -->
   <div class="app signin v2 usersession">
     <div class="session-wrapper">
-      <div class="session-carousel slide" data-ride="carousel" data-interval="5000">
+      <div class="session-carousel slide cel" data-ride="carousel" data-interval="5000">
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
-		  <div class="item active fondo" style="background-image:url(images/sliders/slider1.jpg);"></div>
-		  <div class="item  fondo" style="background-image:url(images/sliders/slider2.jpg);"></div>
+		  <div class="item active fondo" style="background-image:url(images/sliders/sliderUno.jpg);">
+        <p class="textlog"><span>OGHEN</span>, LA HERRAMIENTA QUE NECESITAS PARA CONOCER <span>LA OPINION DE TUS CLIENTES</span></p>
+        <img src="images/sliders/grafica1.png" class="img1">  
+      </div>
+		  <div class="item  fondo" style="background-image:url(images/sliders/sliderDos.jpg);">
+         <p class="textlog"><span style="color:#f6ef7c">OGHEN</span>, LA HERRAMIENTA QUE NECESITAS PARA CONOCER <span style="color:#f6ef7c">LA OPINION DE TUS CLIENTES</span></p>
+         <img src="images/sliders/pantalla.png" class="img2">
+      </div>
       <div class="item  fondo" style="background-image:url(images/sliders/slider3.jpg);"></div>
-		  <!--
-          <div class="item" style="background-image:url(http://lorempixel.com/1200/800?3);background-size:cover;background-repeat: no-repeat;background-position: 50% 50%;">
-          </div>
-		  -->
+		  
+          <!-- <div class="item fondo" style="background-image:url('images/sliders/slider3.jpg');background-size:cover;background-repeat: no-repeat;background-position: 50% 50%;">
+          </div> -->
+		  
         </div>
       </div>
       <div class="card bg-white no-border fondo-login">

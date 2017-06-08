@@ -4410,6 +4410,21 @@ a.bg-white-darker:focus {
 .fondo-login{
   background-color: #363636;
 }
+.textlog{
+  position: relative;
+  top: 19%;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 26px;
+  font-weight: 100;
+  color: #fff;
+  opacity: .7;
+  padding: 0 0 0 35%;
+}
+.textlog span{
+  color:#f6ef7c;
+  font-weight: 600;
+}
+
 .bien{
   color: #fff;
   font-size: 34px; 
@@ -4440,6 +4455,15 @@ a.bg-white-darker:focus {
 }
 .padding-log{
   padding-top: 75px !important;
+}
+
+.img1{
+  margin: 17% auto;
+}
+
+.img2{
+  margin: 17% auto;
+  width: 80%;
 }
 /*fin*/
 
@@ -11954,4 +11978,66 @@ td.align-middle {
   .hide-small{
     display:none;
   }
+}
+
+
+@media only screen and (min-width: 200px) and ( max-width: 600px){
+.cel{
+  display: none;
+  }
+.padding-log {
+  padding-top: 20px !important;
+}
+
+}
+
+@media only screen and (min-width: 600px) and ( max-width: 992px){
+.textlog {    
+  font-size: 20px;
+  padding: 0 0 0 10%;
+  margin-bottom: 10%;
+  }
+
+.img1{
+  margin: 20% auto;
+}
+.app.forgot-password .card, .app.signin .card {
+    max-width: 300px;
+}
+.app.signin.v2 .session-carousel, .app.signup.v2 .session-carousel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    width: 100%;
+    width: -webkit-calc(100% - 500px);
+    width: calc(100% - 300px);
+}
+
+}
+
+@media only screen and (min-width: 992px) and ( max-width: 1200px){
+.textlog {   
+  font-size: 21px;
+  padding: 0 0 0 9%;
+}
+.img1{
+  margin: 20% auto;
+}
+
+.app.forgot-password .card, .app.signin .card {
+    max-width: 350px;
+}
+.app.signin.v2 .session-carousel, .app.signup.v2 .session-carousel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    width: 100%;
+    width: -webkit-calc(100% - 500px);
+    width: calc(100% - 350px);
+}
+
 }
