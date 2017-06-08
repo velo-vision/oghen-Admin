@@ -4431,6 +4431,7 @@ a.bg-white-darker:focus {
   width: 60%;
   margin: 0 auto;
   background: #f95173;
+  border-color: #f95173;
 }
 
 .fondo{
