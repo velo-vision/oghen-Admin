@@ -29,7 +29,10 @@
          <p class="textlog"><span style="color:#f6ef7c">OGHEN</span>, LA HERRAMIENTA QUE NECESITAS PARA CONOCER <span style="color:#f6ef7c">LA OPINION DE TUS CLIENTES</span></p>
          <img src="images/sliders/pantalla.png" class="img2">
       </div>
-      <div class="item  fondo" style="background-image:url(images/sliders/slider3.jpg);"></div>
+      <div class="item  fondo" style="background-image:url(images/sliders/sliderTres.jpg);">
+        <p class="textlog"><span style="color:#f6ef7c">OGHEN</span>, LA HERRAMIENTA QUE NECESITAS PARA CONOCER <span style="color:#f6ef7c">LA OPINION DE TUS CLIENTES</span></p>
+        <img src="images/sliders/Computadoras.png" class="img3">
+      </div>
 		  
           <!-- <div class="item fondo" style="background-image:url('images/sliders/slider3.jpg');background-size:cover;background-repeat: no-repeat;background-position: 50% 50%;">
           </div> -->
