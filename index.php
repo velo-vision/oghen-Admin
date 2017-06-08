@@ -31,7 +31,7 @@
         </div>
       </div>
       <div class="card bg-white no-border fondo-login">
-        <div class="card-block">
+        <div class="card-block padding-log">
           <form role="form" class="form-layout" action="" method="POST">
             <div class="text-center m-b">
 			  		<img width="85%" src="images/LogoBlanco.png">

@@ -4414,7 +4414,7 @@ a.bg-white-darker:focus {
   color: #fff;
   font-size: 34px; 
   text-transform: uppercase;
-  margin: 13% 0;
+  margin: 25% 0 14%;
 }
 .bien span{
   border-bottom: solid #f95172 2px;
@@ -4424,6 +4424,7 @@ a.bg-white-darker:focus {
   background: transparent;
   border: none;
   border-bottom: solid 2px #dfdfdf;
+  margin: 40px 0;
 }
 
 .boton-log{
@@ -4436,6 +4437,9 @@ a.bg-white-darker:focus {
 
 .fondo{
   background-size: cover;
+}
+.padding-log{
+  padding-top: 75px !important;
 }
 /*fin*/
 
