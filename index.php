@@ -22,15 +22,15 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
 		  <div class="item active fondo" style="background-image:url(images/sliders/sliderUno.jpg);">
-        <p class="textlog"><span>OGHEN</span>, LA HERRAMIENTA QUE NECESITAS PARA CONOCER <span>LA OPINION DE TUS CLIENTES</span></p>
+        <p class="textlog"><span>OGHEN</span>, LA HERRAMIENTA QUE NECESITAS PARA CONOCER <span>LA OPINIÓN DE TUS CLIENTES</span></p>
         <img src="images/sliders/grafica1.png" class="img1">  
       </div>
 		  <div class="item  fondo" style="background-image:url(images/sliders/sliderDos.jpg);">
-         <p class="textlog"><span style="color:#f6ef7c">OGHEN</span>, LA HERRAMIENTA QUE NECESITAS PARA CONOCER <span style="color:#f6ef7c">LA OPINION DE TUS CLIENTES</span></p>
+         <p class="textlog"><span style="color:#f6ef7c">OGHEN</span>, LA HERRAMIENTA QUE NECESITAS PARA CONOCER <span style="color:#f6ef7c">LA OPINIÓN DE TUS CLIENTES</span></p>
          <img src="images/sliders/pantalla.png" class="img2">
       </div>
       <div class="item  fondo" style="background-image:url(images/sliders/sliderTres.jpg);">
-        <p class="textlog"><span style="color:#f6ef7c">OGHEN</span>, LA HERRAMIENTA QUE NECESITAS PARA CONOCER <span style="color:#f6ef7c">LA OPINION DE TUS CLIENTES</span></p>
+        <p class="textlog"><span style="color:#f6ef7c">OGHEN</span>, LA HERRAMIENTA QUE NECESITAS PARA CONOCER <span style="color:#f6ef7c">LA OPINIÓN DE TUS CLIENTES</span></p>
         <img src="images/sliders/Computadoras.png" class="img3">
       </div>
 		  
